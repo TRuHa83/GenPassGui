@@ -1,0 +1,2 @@
+# GenPassGui
+Generador de contraseñas
